@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+Sitemap: https://lerepairedupic-dev.github.io/Map/sitemap.xml
